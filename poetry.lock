@@ -1,0 +1,15 @@
+[[package]]
+name = "luhncheck"
+version = "2.0.0"
+description = "Simple validator for identification numbers based on the Luhn algorithm"
+category = "main"
+optional = false
+python-versions = ">=3.7"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.10"
+content-hash = "8240aefcea171395bc1a3049f50e30d34b9a0e35814cfb2f999b752999743d75"
+
+[metadata.files]
+luhncheck = []
