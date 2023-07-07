@@ -3,9 +3,10 @@ import os.path
 
 
 def read_input():
-    """
-    The read input
-    """
+    '''
+    This determines where comes the text. If a file name is setted, this read
+    from that file. If the text comes from STDIN this read it.
+    '''
 
     data_txt = ''
 

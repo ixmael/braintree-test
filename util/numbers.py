@@ -1,4 +1,4 @@
-def parse_number(text):
+def parse_number(text: str) -> int:
     '''
     A simple cast string to int
     '''
