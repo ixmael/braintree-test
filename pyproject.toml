@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "paypal-braintree-test"
 version = "0.0.1"
-description = ""
+description = "This is a tecnical test"
 authors = ["Ismael Ramos <hola@irm.mx>"]
 
 [tool.poetry.dependencies]

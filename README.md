@@ -1,5 +1,5 @@
 # Calculate the accounts' balances from a file
-This script reads a file and calculate the balance of the accounts.
+This script reads a file and calculate the balance of the accounts. The repository url is https://github.com/ixmael/braintree-test.
 
 ## Setup
 This project use Poetry to manage the packages.
